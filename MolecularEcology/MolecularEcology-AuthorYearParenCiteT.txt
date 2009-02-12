@@ -1,0 +1,1 @@
+<$publications><$authors.@count=0?><?$authors.@count=1?><$authors.lastName.@firstObject/> <?$authors.@count=2?><$authors.lastName.@firstObject/> and <$authors.lastName.@lastObject/> <?$authors.@count?><$authors.lastName.@firstObject/> et al. </$authors.@count?>(<$fields.Year/>)<?$publications>, </$publications>
